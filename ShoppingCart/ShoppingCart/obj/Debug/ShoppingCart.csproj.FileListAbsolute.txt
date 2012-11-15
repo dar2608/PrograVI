@@ -1,0 +1,28 @@
+c:\users\gerardo espinoza\documents\visual studio 2010\Projects\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll
+c:\users\gerardo espinoza\documents\visual studio 2010\Projects\ShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
+c:\users\gerardo espinoza\documents\visual studio 2010\Projects\ShoppingCart\ShoppingCart\obj\Debug\ResolveAssemblyReference.cache
+c:\users\gerardo espinoza\documents\visual studio 2010\Projects\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+c:\users\gerardo espinoza\documents\visual studio 2010\Projects\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
+F:\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll
+F:\ShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
+F:\ShoppingCart\ShoppingCart\obj\Debug\ResolveAssemblyReference.cache
+F:\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+F:\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
+E:\ShoppingCart\ShoppingCart\obj\Debug\ResolveAssemblyReference.cache
+E:\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+E:\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll
+E:\ShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
+E:\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
+F:\Proyecto\PrograVI\ShoppingCart\bin\ShoppingCart.dll
+F:\Proyecto\PrograVI\ShoppingCart\bin\ShoppingCart.pdb
+F:\Proyecto\PrograVI\ShoppingCart\obj\Debug\ResolveAssemblyReference.cache
+F:\Proyecto\PrograVI\ShoppingCart\obj\Debug\ShoppingCart.dll
+F:\Proyecto\PrograVI\ShoppingCart\obj\Debug\ShoppingCart.pdb
+G:\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll
+G:\ShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
+G:\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+G:\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\Darwin\Desktop\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll
+C:\Users\Darwin\Desktop\ShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
+C:\Users\Darwin\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\Darwin\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb

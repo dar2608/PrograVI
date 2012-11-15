@@ -1,0 +1,88 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ShoppingCart.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+
+<title>Shopping Cart</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="Styles/style.css" />
+<asp:ContentPlaceHolder ID="HeadContent" runat="server">
+</asp:ContentPlaceHolder>
+
+
+</head>
+
+<body>
+<form id="Form1" runat="server">
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<h1>
+               
+               Shopping Cart            
+                <asp:Image ID="compras" runat="server" Height="50px" 
+                        ImageUrl="~/images/orange-shopping-cart-hi.png" Width="53px" />
+                
+               
+            </h1>
+		</div>
+		<div id="slogan">
+			<h2>El mejor sitio para hacer tus Compras</h2>
+		</div>
+
+    </div>    
+
+	<div id="menu">
+		<ul>
+			
+		    <asp:Menu ID="Menu1" runat="server">
+                <Items>
+                    <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Principal" Value="Principal">
+                    </asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/Mantenimientos/mantenimientos.aspx" 
+                        Text="Mantenimientos" Value="Mantenimientos"></asp:MenuItem>
+                    <asp:MenuItem Text="Mira Tus Compras" Value="Mira Tus Compras"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/Account/Login.aspx" Text="Registrate" 
+                        Value="Registrate"></asp:MenuItem>
+                </Items>
+            </asp:Menu>
+			
+		</ul>
+		<br class="clearfix" />
+	</div>
+
+        <div id= "page">
+     <div class="content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                
+                
+                <p>
+                    &nbsp;</p>
+                
+                
+            </asp:ContentPlaceHolder>
+        </div>
+        </div>
+    	<div id="page-bottom">
+		<div id="page-bottom-content">
+			<h3>Contáctenos </h3>
+			<p>
+			  
+			</p>
+		</div>
+		
+		<br class="clearfix" />
+	</div>
+
+</div>
+<div id="footer">
+	Copyright (c) 2012 Shopping Cart. All rights reserved.
+
+
+</div>
+</form>
+</body>
+</html>
+
